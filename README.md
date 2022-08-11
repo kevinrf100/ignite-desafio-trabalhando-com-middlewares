@@ -1,4 +1,4 @@
-# Desafio 02 - Trabalhando com
+# Desafio 02 - Trabalhando com middlewares
 
 # 💻 Sobre o desafio
 
