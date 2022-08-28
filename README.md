@@ -1,3 +1,4 @@
+![cover-node js](https://user-images.githubusercontent.com/30449737/187058605-8d13e887-e651-41d8-8fea-babf1698db2b.png)
 # Desafio 02 - Trabalhando com middlewares
 
 # 💻 Sobre o desafio
